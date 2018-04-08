@@ -1,0 +1,7 @@
+python-dateutil>=1.5
+pytz
+future
+six>=1.10.0
+
+[namedparams]
+psycopg2>=2.5.1

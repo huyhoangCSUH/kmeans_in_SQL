@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: vertica-python
+Version: 0.7.3
+Summary: A native Python client for the Vertica database.
+Home-page: https://github.com/uber/vertica-python/
+Author: Justin Berka, Alex Kim
+Author-email: justin.berka@gmail.com, alex.kim@uber.com
+License: MIT
+Description: UNKNOWN
+Keywords: database vertica
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Topic :: Database
+Classifier: Topic :: Database :: Database Engines/Servers
+Classifier: Operating System :: OS Independent
